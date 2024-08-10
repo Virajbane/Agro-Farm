@@ -9,7 +9,7 @@
   .navbar {
     height: 60px;
     width: 100%;
-    background-color: #131921;
+    background-color: #344e41;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -403,7 +403,7 @@
   /* Panel */
   
   .panel {
-    background-color: #232f3e;
+    background-color: #3a5a40;
     height: 40px;
     display: flex;
     align-items: center;
@@ -482,7 +482,7 @@
     flex-wrap: wrap;
   }
   .box {
-    background-color: #ffffff;
+    background-color: #dad7cd;
   
     
     /* display: flex; */
@@ -508,7 +508,7 @@
     bottom: 70px;
   }
   .box1-image {
-    height: 800px;
+    height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
   
@@ -704,7 +704,7 @@
     justify-content: space-evenly;
   }
   .box {
-    background-color: #ffffff;
+    background-color: #dad7cd;
     height: 500px;
     width: 360px;
     display: flex;
@@ -800,7 +800,7 @@
   /* SCROll card */
   
   .scroll-card {
-    background-color: #ffffff;
+    background-color: #dad7cd;
     /* display: flex; */
   
     font-weight: 800;
@@ -812,7 +812,7 @@
     height: 300px;
     display: flex;
   
-    background-color: #f8f5f5;
+    background-color: #dad7cd;
     overflow: auto;
     white-space: nowrap;
   }
@@ -845,7 +845,7 @@
     flex-wrap: wrap;
   }
   .box {
-    background-color: #ffffff;
+    background-color: #dad7cd;
     height: 500px;
     width: 360px;
     display: flex;
@@ -930,7 +930,7 @@
     padding-right: 30px;
     padding-top: 10px;
     position: relative;
-    top: 40px;
+    
   }
   .box8-image {
     height: 100px;
@@ -1047,9 +1047,9 @@
   }
   
   .footer-start {
-    height: 200px;
+    height: 100px;
     color: #cccccc;
-    background-color: #232f3e;
+    background-color: #3a5a40;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1059,7 +1059,7 @@
   }
   
   .logo-end {
-    background-color: #232f3e;
+    background-color: #3a5a40;
     height: 90px;
     width: 70px;
     background-image: url(image/Logo.png);
@@ -1068,8 +1068,8 @@
   }
   
   .footer-mid {
-    min-height: 600px;
-    background-color: #131a22;
+    min-height: 100px;
+    background-color: #3a5a40;
     border-top: 0.1px solid #716969;
     display: flex;
     flex-direction: column;
@@ -1077,15 +1077,7 @@
     align-items: center;
     justify-content: space-evenly;
   }
-  .mid-content {
-    min-height: 400px;
-    width: 70%;
-    display: flex;
-    justify-content: center;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    position: relative;
-  }
+  
   .blog {
     max-height: 80px;
     max-width: 115px;
