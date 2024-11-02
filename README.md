@@ -1,15 +1,17 @@
 Agro-Farm 🌾
 Agro-Farm is a platform designed to help farmers tackle daily challenges, connect with resources, and sell their cultivated crops online. This website aims to improve farmers' access to market information, community support, and e-commerce features for their agricultural products.
-
+</br>
 Features ✨
 User Authentication: Secure login and sign-up functionality for personalized access.
 E-commerce for Crops: A marketplace where farmers can list and sell their cultivated crops directly to consumers.
 Farmer Support: Resources, tips, and support tools to help farmers manage their day-to-day challenges.
 Responsive Design: Optimized for use on both desktop and mobile devices.
+</br>
 Tech Stack 💻
 Frontend: HTML, CSS, JavaScript
 UI Design: Simple, user-friendly interface tailored for easy navigation.
 Compatibility: Fully responsive and optimized for various screen sizes.
+</br>
 Project Structure 📂
 plaintext
 Copy code
@@ -22,6 +24,8 @@ Copy code
 └── js
     └── app.js           # Main JavaScript file
 Getting Started 🚀
+
+
 Clone the repository:
 bash
 Copy code
